@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="bg-[url('/src/assets/image.jpg')] bg-cover bg-center h-screen w-screen">
       <Navbar />
-      <Content />
     </div>
   );
 }
